@@ -1,0 +1,11 @@
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\bin\Debug\kinectTest1.exe
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\bin\Debug\kinectTest1.pdb
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\kinectTest1.Form1.resources
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\kinectTest1.Properties.Resources.resources
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\kinectTest1.exe
+c:\users\haruka\documents\visual studio 2010\Projects\kinectTest1\kinectTest1\obj\x86\Debug\kinectTest1.pdb
+c:\Users\haruka\Documents\Visual Studio 2010\Projects\kinectTest1\kinectTest1\bin\Debug\Midi.dll
+c:\Users\haruka\Documents\Visual Studio 2010\Projects\kinectTest1\kinectTest1\bin\Debug\Midi.xml
